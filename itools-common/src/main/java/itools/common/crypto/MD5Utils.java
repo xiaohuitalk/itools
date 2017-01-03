@@ -1,4 +1,4 @@
-package itools.crypto;
+package itools.common.crypto;
 
 /**
  * Created by dengyunhui on 2017/1/2.

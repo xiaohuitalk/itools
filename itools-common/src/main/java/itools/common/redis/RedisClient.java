@@ -1,4 +1,4 @@
-package itools.redis;
+package itools.common.redis;
 
 /**
  * Created by dengyunhui on 2017/1/2.
